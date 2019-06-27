@@ -5,8 +5,8 @@ In the project I will implement the Random Forest algorithm for classification p
 Code is available for both Python and Anaconda Jupyter.
 I will use the dataset available at https://archive.ics.uci.edu/ml/datasets/Heart+Disease (in particular the file processed.cleveland.data) to test it and compare precisions with the Random Forest of the Sklearn library. 
 That's why there are two versions of the codes
-- ML_Sklearn_Implementation contains the preprocessing of data and the usage of Random Forest from the Sklearn library.
-- ML_My_Implementation contains the preprocessing of data, the definition of my class for Random Forest and the usage of my implementation.
+- *ML_Sklearn_Implementation* contains the preprocessing of data and the usage of Random Forest from the Sklearn library.
+- *ML_My_Implementation* contains the preprocessing of data, the definition of my class for Random Forest and the usage of my implementation.
 
 ### Prerequisites
 
